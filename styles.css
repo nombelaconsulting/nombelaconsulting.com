@@ -21,7 +21,7 @@ header {
 }
 
 header .logo {
-  max-height: 140px;
+  max-height: 160px;
   margin: 0 auto 1rem;
   display: block;
 }
@@ -41,7 +41,7 @@ header nav {
 }
 
 header nav a {
-  color: #d1fae5;
+  color: white;
   text-decoration: none;
   margin: 0 10px;
   font-weight: bold;
