@@ -21,7 +21,7 @@ header {
 }
 
 header .logo {
-  max-height: 160px;
+  max-height: 135px;
   margin: 0 auto 1rem;
   display: block;
 }
@@ -41,7 +41,7 @@ header nav {
 }
 
 header nav a {
-  color: white;
+  color: #d1fae5;
   text-decoration: none;
   margin: 0 10px;
   font-weight: bold;
@@ -62,10 +62,9 @@ section {
   margin-bottom: 3rem;
 }
 
-section h2 {
-  color: #14532d;
-  border-bottom: 2px solid #d1fae5;
-  padding-bottom: 0.5rem;
+section h2 i {
+  color: white;
+  margin-right: 10px;
 }
 
 /* Footer */
