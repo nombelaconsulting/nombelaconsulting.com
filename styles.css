@@ -62,8 +62,19 @@ section {
   margin-bottom: 3rem;
 }
 
-section h2 i {
-  color: white;
+section h2 {
+  display: flex;
+  align-items: center;
+  font-size: 1.8rem;
+  color: #14532d;
+}
+
+.lucide-icon {
+  width: 1.25em;
+  height: 1.25em;
+  vertical-align: middle;
+  stroke: #14532d;
+  stroke-width: 2;
   margin-right: 10px;
 }
 
@@ -84,10 +95,4 @@ footer nav a {
 
 footer nav a:hover {
   text-decoration: underline;
-}
-
-/* Icons */
-i {
-  margin-right: 8px;
-  color: #14532d;
 }
